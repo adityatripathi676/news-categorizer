@@ -162,11 +162,8 @@ python src/main.py
 
 ## License
 
-This project is open-source. [Specify your license, e.g., MIT]
+This project is open-source. [MIT]
 
 ---
 
-## Contact
-
-For further inquiries or issues, feel free to reach out through the GitHub repository.
 
