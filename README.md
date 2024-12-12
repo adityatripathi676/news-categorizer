@@ -90,7 +90,7 @@ news_analyzer/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/news-analyzer.git
+   git clone [https://github.com/yourusername/news-analyzer.git](https://github.com/adityatripathi676/news-categorizer.git)
    cd news-analyzer
    ```
 
