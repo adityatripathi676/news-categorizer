@@ -96,10 +96,19 @@ news_analyzer/
 
 2. **Create a Virtual Environment**
 
+   **For Linux/Mac:**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate
    ```
+   **For Windows**
+   ```bash 
+   python -m venv venv
+   .\venv\Scripts\activate 
+   #To Deactivate
+   deactivate
+   ```
+
 
 3. **Install Dependencies**
 
@@ -120,7 +129,7 @@ news_analyzer/
 ### Running the Analyzer
 
 ```bash
-python src/main.py
+python .\src\categorizer.py
 ```
 
 ---
